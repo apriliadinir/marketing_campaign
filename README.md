@@ -1,2 +1,2 @@
 # marketing_campaign
-project machine learning model for analyze customer to boost marketing campaign using k-means clustering
+Project ini bertujuan untuk memahami perilaku customer dalam bertransaksi dengan mengelompokkannya ke dalam beberapa grup dengan menggunakan pendekatan clustering. Tujuannya agar dapat membantu tim marketing mengoptimalkan campaign mereka.
